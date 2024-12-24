@@ -49,3 +49,15 @@ python bot.py
 ```
 
 Этот бот идеально подходит для администраторов серверов CS 1.6, игровых сообществ и игроков, которые хотят быстро получать актуальную информацию о состоянии серверов прямо в Discord.
+
+
+Вот пример его работы 
+
+
+![image](https://github.com/user-attachments/assets/850e0e33-9711-4991-90d9-983a2a0dfe39)
+![image](https://github.com/user-attachments/assets/92f8208a-93cc-4dfb-a6ab-9c35bdf573f3)
+![image](https://github.com/user-attachments/assets/8aeda453-c600-412b-9ddc-bcc29da9f7ad)
+![image](https://github.com/user-attachments/assets/7bea18fb-70aa-41fe-847f-ccabaf6df082)
+
+
+Со временем бот будет дорабатыватся и улутшатся
